@@ -1,10 +1,20 @@
-# HexaNode
+  # HexaNode
+<p align="center">
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Project Status](https://img.shields.io/badge/status-active-brightgreen)](#)
-[![Language](https://img.shields.io/badge/languages-HTML%20%7C%20PHP%20%7C%20CSS%20%7C%20JS-orange)](#)
-[![Latest Release](https://img.shields.io/badge/release-v1.0.0-blueviolet)](#)
-[![Open Source](https://img.shields.io/badge/opensource-yes-green)](#)
+<br>
+  <a href="https://github.com/vava62600/HexaNode/stargazers">
+    <img src="https://img.shields.io/github/stars/vava62600/HexaNode?style=for-the-badge" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/vava62600/HexaNode/releases">
+    <img src="https://img.shields.io/github/v/release/HexaNode/KeybMacro?style=for-the-badge" alt="Latest release">
+  </a>
+  <a href="https://opensource.org/license/mit">
+    <img src="https://img.shields.io/badge/license-MIT-darkgreen.svg?style=for-the-badge" alt="Licence">
+  </a>
+  <a href="https://github.com/vava62600/HexaNode/releases">
+    <img src="https://img.shields.io/badge/languages-HTML%20%7C%20PHP%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge" alt="Languages">
+  </a>
+</p>
 
 ---
 
@@ -42,14 +52,14 @@ _(others can be added easily via translation modules)_
 | **UI**                  | Custom theming engine (light/dark/themes)      |
 | **Auth System**         | Token-based Auth, Browser/IP Fingerprinting    |
 | **Hypervisor**          | QEMU, KVM, Libvirt, VirtIO                     |
-| **Containers**          | Docker, Podman (optional)                      |
+| **Containers**          | Docker,LXC , Podman (optional)                 |
 | **Storage**             | ZFS, EXT4, NTFS, Btrfs, mdadm (RAID), USB      |
 | **Network**             | Apache2, Reverse Proxy (mod_proxy), ufw/iptables |
-| **Automation**          | Home Assistant Core, MQTT, Node-RED (optional) |
-| **System Services**     | systemd, cron, rsyslog, SSH, Avahi, SMB, NFS   |
+| **Automation**          | Home Assistant Core, MQTT,                     |
+| **System Services**     | systemd, cron, rsyslog, SSH, Avahi, SMB, NFS, RSync, FTP, LDAP, ...  |
 | **VM Display**          | WebSocket support for live VM preview          |
 | **Packaging**           | ZIP, JSON for VM & container export/import     |
-
+| **Apps Includes**       | Nextcloud, Syncthing, Pi-Hole, ...             |
 ---
 
 ## 💡 Key Features
@@ -62,14 +72,7 @@ _(others can be added easily via translation modules)_
 - Full logs and alert system
 - Secure login with IP and browser detection
 - Token auto-renewal + intrusion detection
-
----
-
-## 📦 Latest Release
-
-**v1.0.0**  
-Initial public release (MIT licensed, stable and functional)
-
+- 
 ---
 
 ## 🔓 License

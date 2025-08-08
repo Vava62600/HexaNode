@@ -2,16 +2,16 @@
 <p align="center">
 
 <br>
-  <a href="https://github.com/vava62600/HexaNode/stargazers">
-    <img src="https://img.shields.io/github/stars/vava62600/HexaNode?style=for-the-badge" alt="GitHub stars">
+  <a href="https://github.com/stravaxx/HexaNode/stargazers">
+    <img src="https://img.shields.io/github/stars/stravaxx/HexaNode?style=for-the-badge" alt="GitHub stars">
   </a>
-  <a href="https://github.com/vava62600/HexaNode/releases">
-    <img src="https://img.shields.io/github/v/release/HexaNode/KeybMacro?style=for-the-badge" alt="Latest release">
+  <a href="https://github.com/stravaxx/HexaNode/releases">
+    <img src="https://img.shields.io/github/v/release/stravaxx/KeybMacro?style=for-the-badge" alt="Latest release">
   </a>
   <a href="https://opensource.org/license/mit">
     <img src="https://img.shields.io/badge/license-MIT-darkgreen.svg?style=for-the-badge" alt="Licence">
   </a>
-  <a href="https://github.com/vava62600/HexaNode/releases">
+  <a href="https://github.com/stravaxx/HexaNode/releases">
     <img src="https://img.shields.io/badge/languages-HTML%20%7C%20PHP%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge" alt="Languages">
   </a>
 </p>
